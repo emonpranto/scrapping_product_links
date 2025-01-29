@@ -15,4 +15,4 @@ To run this script, you will need:
 - Selenium library
 - Chrome WebDriver installed and available in the system's PATH.
 
-For additional support for run this code i have uploaded the requirements.txt file where you can find all the libraries you need. 
+For additional support for run this code, I have uploaded the requirements.txt file where you can find all the libraries you need. 
